@@ -1,0 +1,2 @@
+# mysql
+trabajo de mysql
